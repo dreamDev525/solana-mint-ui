@@ -29,7 +29,3 @@ Mostly candy guards, as they're currently being handled automatically. There are
 ## deploy
 
 You can deploy to any provider but make sure you add the environment variables from `.env.template`. (_Try [Vercel](https://vercel.com/new)_)
-
-## If you like this, donate
-
-- Send tips in SOL to help me build in public: 52zEuaG5VBQTzRP7MLMyEzSuKgYPF9E9dtaWrmXaiNkg
